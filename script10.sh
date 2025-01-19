@@ -4,7 +4,7 @@ echo "Qual a sua idade?"
 read idade
 if [ "$idade" -ge "18" ]
 then
-	echo "PODE DIRIGIR"
+	echo "PODE COMPRAR BEBIDA ALCOOLICA"
 else
-	echo "NAO PODE DIRIGIR"
+	echo "NAO PODE COMPRAR BEBIDA ALCOOLICA"
 fi
