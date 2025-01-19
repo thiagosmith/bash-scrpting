@@ -1,0 +1,21 @@
+Objetivo:
+Criar um script para descobrir hosts ativos utilizando o ping.
+O usuário deve informar a rede e o script deve retornar os hosts que respondem ao ping.
+O script deve informar o modo de uso, caso o parametro nao tenha sido passado.
+
+Exemplo:
+./atividade1.sh
+5M1TH SECURITY - PING SWEEP
+MODO DE USO
+EXEMPLO ./atividade1.sh 192.168.0
+
+./atividade1.sh 10.1.47
+10.1.47.1
+10.1.47.8
+10.1.47.10
+10.1.47.12
+10.1.47.15
+10.1.47.16
+10.1.47.17
+10.1.47.22
+10.1.47.26

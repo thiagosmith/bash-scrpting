@@ -1,0 +1,6 @@
+Objetivo:
+Criar um script para descobrir quais hosts na rede possuem uma determinada porta aberta.
+O usuário deve informar a rede e o script deve retornar os hosts que possuem a porta 80 aberta.
+O script deve informar o modo de uso, caso o parametro nao tenha sido passado.
+
+
