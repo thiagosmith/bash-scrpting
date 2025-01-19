@@ -1,5 +1,5 @@
 #!/bin/bash
-#atividade de condicoes 3 - idad para beber
+#atividade de condicoes 3 - idade para comprar bebida alcoolica
 echo "Qual a sua idade?"
 read idade
 if [ "$idade" -ge "18" ]
